@@ -1,0 +1,15 @@
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\bin\Debug\Models.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\bin\Debug\Models.pdb
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\obj\Debug\DuLieu.csprojResolveAssemblyReference.cache
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\obj\Debug\Models.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\obj\Debug\Models.pdb
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\bin\Debug\Models.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\bin\Debug\Models.pdb
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\obj\Debug\Models.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\obj\Debug\Models.pdb
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\obj\Debug\DuLieu.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\bin\Debug\Models.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\bin\Debug\Models.pdb
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\obj\Debug\DuLieu.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\obj\Debug\Models.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\Models\obj\Debug\Models.pdb

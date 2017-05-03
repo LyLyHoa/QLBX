@@ -1,0 +1,67 @@
+﻿@model UngDungWeb.Models.ThongTinDatCho
+@{
+    ViewBag.Active = "liDatVe";
+    ViewBag.Title = "Nhà xe hân hạnh phục vụ quý khách";
+    Layout = "~/Views/Layout/_Layout.cshtml";
+    var list = (List<Models.DTO.CTChoNgoi>)ViewBag.CTCN;
+    var ttChung = ((List<Models.DTO.Xe>)ViewBag.TTChung)[0];
+}
+
+<div class="container theme-showcase" role="main">
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+        <h3>Xe @ttChung.SoXe hân hạnh phục vụ quý khách</h3>
+        <p>Hãy chọn cho mình chỗ ngồi ưng ý nào</p>
+    </div>
+
+
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="page-header">
+                <h3>Vị trí chỗ ngồi</h3>
+            </div>
+            <img src="/Public/image/xe-@ttChung.SoChoNgoi-cho.jpg" alt="">
+        </div>
+        <div class="col-lg-6">
+            <div class="page-header">
+                <h3>Thông tin khách hàng</h3>
+            </div>
+            @using(Html.BeginForm())
+            {
+                <div class="text-danger">
+                    @Html.ValidationSummary()
+                </div>
+                <input type="hidden" class="form-control" name="SoXe" value="@ttChung.SoXe">
+                <input type="hidden" class="form-control" name="IdChuyen" value="@ttChung.IdChuyen">
+                
+                <div class="form-group">
+                    <label for="">Họ tên</label>
+                    @*<input type="text" class="form-control" id="" placeholder="Nhập họ tên...">*@
+                    @Html.TextBoxFor(model => model.HoTen, htmlAttributes: new { @class = "form-control", @placeholder="Nhập họ tên..." })
+                </div>
+                <div class="form-group">
+                    <label for="">Số điện thoại</label>
+                    @Html.TextBoxFor(model => model.SoDienThoai, htmlAttributes: new { @class = "form-control", @placeholder = "Số điện thoại..." })
+                </div>
+                <div class="form-group">
+                    <label for="">Chỗ ngồi đã đặt: 
+                    @foreach (Models.DTO.CTChoNgoi item in list)
+                    {
+                        @item.TenChoNgoi <span>, </span> 
+                    }
+                    </label>
+                    @Html.TextBoxFor(model => model.TenChoNgoi, htmlAttributes: new { @class = "form-control", @placeholder = "Tên chỗ ngồi..." })
+                </div>
+                <button type="submit" class="btn btn-primary pull-right">Đặt chỗ</button>
+            }
+            
+                
+        </div>
+    </div>
+    <div>
+
+    </div>
+
+</div> <!-- /container -->
+

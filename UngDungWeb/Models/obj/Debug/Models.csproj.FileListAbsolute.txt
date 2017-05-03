@@ -1,0 +1,5 @@
+E:\C#\asp.net mvc5\Testtttttttt\Models\bin\Debug\Models.dll
+E:\C#\asp.net mvc5\Testtttttttt\Models\bin\Debug\Models.pdb
+E:\C#\asp.net mvc5\Testtttttttt\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\C#\asp.net mvc5\Testtttttttt\Models\obj\Debug\Models.dll
+E:\C#\asp.net mvc5\Testtttttttt\Models\obj\Debug\Models.pdb

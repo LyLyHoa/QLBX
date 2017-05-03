@@ -1,0 +1,144 @@
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\Models.dll
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Helpers.dll
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Mvc.dll
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Razor.dll
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Webpages.Deployment.dll
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Webpages.dll
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Webpages.Razor.dll
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\Models.pdb
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Razor.xml
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Webpages.xml
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Webpages.Deployment.xml
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Webpages.Razor.xml
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Helpers.xml
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\System.Web.Mvc.xml
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\obj\Debug\UngDungWeb.csprojResolveAssemblyReference.cache
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\Testtttttttt.dll.config
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\Testtttttttt.dll
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\bin\Testtttttttt.pdb
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\obj\Debug\Testtttttttt.dll
+E:\C#\asp.net mvc5\Testtttttttt\Testtttttttt\obj\Debug\Testtttttttt.pdb
+D:\web\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll.config
+D:\web\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll
+D:\web\UngDungWeb\UngDungWeb\bin\Testtttttttt.pdb
+D:\web\UngDungWeb\UngDungWeb\bin\Models.dll
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.dll
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.dll
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Razor.dll
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.dll
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.dll
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.dll
+D:\web\UngDungWeb\UngDungWeb\bin\Models.pdb
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Razor.xml
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.xml
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.xml
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.xml
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.xml
+D:\web\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.xml
+D:\web\UngDungWeb\UngDungWeb\obj\Debug\UngDungWeb.csprojResolveAssemblyReference.cache
+D:\web\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.dll
+D:\web\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.pdb
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll.config
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.pdb
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Models.dll
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.dll
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.dll
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Razor.dll
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.dll
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.dll
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.dll
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Models.pdb
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Razor.xml
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.xml
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.xml
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.xml
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.xml
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.xml
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\UngDungWeb.csprojResolveAssemblyReference.cache
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.dll
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.pdb
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll.config
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.pdb
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Models.dll
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.dll
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.dll
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Razor.dll
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.dll
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Models.pdb
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Razor.xml
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.xml
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.xml
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.xml
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\UngDungWeb.csprojResolveAssemblyReference.cache
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.dll
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.pdb
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll.config
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.pdb
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Models.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Razor.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Models.pdb
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Razor.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\UngDungWeb.csprojResolveAssemblyReference.cache
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.pdb
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll.config
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.pdb
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Models.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Razor.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Models.pdb
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Razor.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\UngDungWeb.csprojResolveAssemblyReference.cache
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.pdb
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll.config
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Testtttttttt.pdb
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Models.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Razor.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\Models.pdb
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Razor.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Helpers.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\bin\System.Web.Mvc.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\UngDungWeb.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\UngDungWeb\UngDungWeb\obj\Debug\Testtttttttt.pdb

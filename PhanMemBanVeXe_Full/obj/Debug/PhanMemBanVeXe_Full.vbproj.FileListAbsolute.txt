@@ -1,0 +1,210 @@
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbprojResolveAssemblyReference.cache
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Infomation.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Resources.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Main.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbproj.GenerateResource.Cache
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.xml
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe.config
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe.config
+E:\KHTN\Tham Khao\Do an mau C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe.config
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbprojResolveAssemblyReference.cache
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Infomation.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Resources.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Main.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbproj.GenerateResource.Cache
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.pdb
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.exe
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.pdb
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar2.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.Instrumentation.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.TreeGX.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar2.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe.config
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.exe
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.xml
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.pdb
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.pdb
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.xml
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbprojResolveAssemblyReference.cache
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Infomation.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Resources.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Main.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbproj.GenerateResource.Cache
+C:\Users\Windows 10 TIMT\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe.config
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.exe
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.xml
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.pdb
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.pdb
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.xml
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbprojResolveAssemblyReference.cache
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Infomation.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Resources.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Main.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbproj.GenerateResource.Cache
+E:\C#\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe.config
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.exe
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.pdb
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.pdb
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbprojResolveAssemblyReference.cache
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Infomation.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Resources.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Main.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbproj.GenerateResource.Cache
+C:\Users\VANTRIEU\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe.config
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.exe
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.xml
+C:\Users\VANTRIEU\Desktop\Quan ly  phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.pdb
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe.config
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.pdb
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar2.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.Instrumentation.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.SuperGrid.Design.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.TreeGX.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar2.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.Instrumentation.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbprojResolveAssemblyReference.cache
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Infomation.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Resources.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Main.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbproj.GenerateResource.Cache
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.exe
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.xml
+E:\KHTN\HKII 16-17\DO AN THAY HUY\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.pdb
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe.config
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.exe
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.pdb
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.exe
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.pdb
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\PhanMemBanVeXe_Full.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbprojResolveAssemblyReference.cache
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Infomation.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Resources.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Main.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\PhanMemBanVeXe_Full.vbproj.GenerateResource.Cache
+C:\Users\Windows 10 TIMT\Desktop\Phan mem ban ve xe Phuong Trang VB\PhanMemBanVeXe_Full\obj\Debug\vi-VN\PhanMemBanVeXe_Full.resources.dll
